@@ -1,14 +1,6 @@
 # Quiz-Portal
 This quiz portal can be used for conducting quizes by teacher of any department. The quiz portal would reduce the work load on the teachers and evaluation of the students would be fair and unbiased. The portal would also help in conducting quizes in timely manner with no possibility of use of unfair means. The students can also check their marks and if they have any problem with the evaluation , they can also submit a discrepancy request. The teacher would have the record of each student and every quiz conducted by him which will be maintained in his database.
 
-## Instruction
-The project uses "ngx-admin" template.
-
-Link : https://github.com/akveo/ngx-admin
-
-Extract and Install the ngx-admin on your system and then copy the dist folder generated in ngx-admin to your project folder and paste
-the files given in the folder "Add to dist folder in your project" to that dist folder and you are all set.
-
 ## Features
 
 1.) Separate login for admin and students.
@@ -32,9 +24,4 @@ quiz, then 20 buttons will be automatically generated.
 
 9.) Student can navigate between questions using the buttons.
 
-10.) When student saves one answer, the colour of the respective button will change to "Green" indicating that the student has already
-submitted this question. This way the student can easily keep track of the questions he answered and the ones he didn't.
-
-11.) Password reser feature is there if teacher wants to reset his password.
-
-# The project is still under progress so any suggestions are welcome!!
+10.) Password reset feature is there if teacher wants to reset his password.
